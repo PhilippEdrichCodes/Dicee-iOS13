@@ -36,6 +36,6 @@ class ViewController: UIViewController {
         diceImageViewLeft.image = diceFaces.randomElement() as? UIImage
         diceImageViewRight.image = diceFaces.randomElement() as? UIImage
     }
-
+    
 }
 
